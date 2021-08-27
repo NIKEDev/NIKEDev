@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nick</h1>
-<p>i live in cloud, I’ve mostly work professionally with Html, Css, javascript and node but also a little bit with React, python and C. I give maximum time to my studies and coding. Right now I am learning Front and Back End in all kinds of ways.</p>
+<p> I’ve mostly work professionally with Html, Css, javascript and node but also a little bit with React, python and C. I give maximum time to my studies and coding. Right now I am learning Client Side and Server Side in all kinds of ways.</p>
 
 ##  **Languages:**
 
